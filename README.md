@@ -1,2 +1,2 @@
 # STM32F4-Board
-Development board based on STM32F07
+Development board based on STM32F407
