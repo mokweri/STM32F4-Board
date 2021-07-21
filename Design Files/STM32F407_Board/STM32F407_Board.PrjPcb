@@ -241,6 +241,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SRLIGCAT
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for STM32F407_Board\Design Rule Check - STM32F407_Board.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
