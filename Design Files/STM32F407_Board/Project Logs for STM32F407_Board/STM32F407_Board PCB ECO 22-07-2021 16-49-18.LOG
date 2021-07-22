@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=R11-1
+Change Net Color : Old Net Color=Aqua New Net Color=Default
+Change Net Color : Old Net Color=RGB(253, 131, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(69, 15, 86) New Net Color=Default
+Change Net Color : Old Net Color=Navy New Net Color=Default
+Added Pin To Net: NetName=EARTH Pin=C21-1
+Added Pin To Net: NetName=EARTH Pin=R11-1
+Added Net: Name=EARTH
+Added Member To Class: ClassName=[4]-Ethernet_PHY Member=Component S2 1-1977223-1

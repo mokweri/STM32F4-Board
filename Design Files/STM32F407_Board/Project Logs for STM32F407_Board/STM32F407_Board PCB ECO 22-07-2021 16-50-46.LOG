@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND Pin=MH1-1
+Added Pin To Net: NetName=EARTH Pin=MH1-1
